@@ -1,6 +1,6 @@
 # Estudo de PHP - Estruturas condicionais e lógica de descontos
 
-Projeto pra praticar estruturas condicionais (`if`, `else if`, `else`) e operadores lógicos simulando um sistema de cálculo de frete e desconto em compras.
+Exercício pra praticar estruturas condicionais (`if`, `else if`, `else`) e operadores lógicos simulando um sistema de cálculo de frete e desconto em compras.
 
 ## Conceitos estudados
 
