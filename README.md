@@ -24,4 +24,4 @@ Exercício pra praticar estruturas condicionais (`if`, `else if`, `else`) e oper
 - `index.php` — página principal com os exemplos
 
 ---
-[Ver online](https://mirandaromario09.github.io/exercicio-if-else-operadores)
+[Ver online](https://mirandaromario09.github.io/exercicio1-php-if-else/)
